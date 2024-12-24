@@ -1,0 +1,13 @@
+·
+«C:\Users\User\Documents\SonarQubeProjectTesting\TestingGestionProductos\TestingGestionProductos\obj\Debug\net8.0\TestingGestionProductos.MvcApplicationPartsAssemblyInfo.csutf-8¤
+˜C:\Users\User\Documents\SonarQubeProjectTesting\TestingGestionProductos\TestingGestionProductos\obj\Debug\net8.0\TestingGestionProductos.AssemblyInfo.csutf-8«
+ŸC:\Users\User\Documents\SonarQubeProjectTesting\TestingGestionProductos\TestingGestionProductos\obj\Debug\net8.0\.NETCoreApp,Version=v8.0.AssemblyAttributes.csutf-8¦
+šC:\Users\User\Documents\SonarQubeProjectTesting\TestingGestionProductos\TestingGestionProductos\obj\Debug\net8.0\TestingGestionProductos.GlobalUsings.g.csutf-8{
+rC:\Users\User\Documents\SonarQubeProjectTesting\TestingGestionProductos\TestingGestionProductos\WeatherForecast.csutf-8s
+jC:\Users\User\Documents\SonarQubeProjectTesting\TestingGestionProductos\TestingGestionProductos\Program.csutf-8“
+‡C:\Users\User\Documents\SonarQubeProjectTesting\TestingGestionProductos\TestingGestionProductos\Migrations\AppDbContextModelSnapshot.csutf-8Ÿ
+“C:\Users\User\Documents\SonarQubeProjectTesting\TestingGestionProductos\TestingGestionProductos\Migrations\20241224153655_InitialCreate.Designer.csutf-8”
+ŠC:\Users\User\Documents\SonarQubeProjectTesting\TestingGestionProductos\TestingGestionProductos\Migrations\20241224153655_InitialCreate.csutf-8’
+ˆC:\Users\User\Documents\SonarQubeProjectTesting\TestingGestionProductos\TestingGestionProductos\Controllers\WeatherForecastController.csutf-8Œ
+‚C:\Users\User\Documents\SonarQubeProjectTesting\TestingGestionProductos\TestingGestionProductos\Controllers\ProductosController.csutf-8x
+oC:\Users\User\Documents\SonarQubeProjectTesting\TestingGestionProductos\TestingGestionProductos\AppDBContext.csutf-8

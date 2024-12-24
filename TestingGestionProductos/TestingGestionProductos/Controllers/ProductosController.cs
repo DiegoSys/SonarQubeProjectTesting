@@ -8,6 +8,7 @@ namespace TestingGestionProductos.Controllers
     public class ProductosController : Controller
     {
         private readonly AppDbContext _context;
+        public string password;
 
         public ProductosController(AppDbContext context)
         {
@@ -28,6 +29,8 @@ namespace TestingGestionProductos.Controllers
             await _context.SaveChangesAsync();
             return Ok(producto);
         }
+
+        //TODO: Say hello to SonarLint!
 
         // Agrega métodos para Update y Delete según sea necesario.
 
