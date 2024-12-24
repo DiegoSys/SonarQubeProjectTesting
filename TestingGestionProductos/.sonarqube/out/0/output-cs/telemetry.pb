@@ -1,0 +1,1 @@
+”R~C:\Users\User\Documents\SonarQubeProjectTesting\TestingGestionProductos\TestingGestionProductos\TestingGestionProductos.csproj¢net8.0òCSharp12
